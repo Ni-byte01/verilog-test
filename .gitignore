@@ -1,0 +1,10 @@
+# Ignore waveform dumps
+*.vcd
+
+# Ignore simulation output files
+and_out
+a.out
+
+# Optional: Ignore temporary files and editor backups
+*.bak
+*.swp

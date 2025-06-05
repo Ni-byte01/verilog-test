@@ -4,6 +4,7 @@
 # Ignore simulation output files
 and_out
 a.out
+*.out
 
 # Optional: Ignore temporary files and editor backups
 *.bak
